@@ -1,0 +1,17 @@
+
+
+.btn-success:hover
+{
+    background-color: rgb(255, 0, 0);
+
+}
+
+canvas{
+    animation-name:example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+ 
+}
+
+
+
